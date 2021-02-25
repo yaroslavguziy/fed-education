@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Lorem ipsum dolor ANOTHER NEW TEXT IN MASTER BRANCH elit. Quisquam, accusamus nisi. Alias sed maxime quasi laudantium ad dolorum ratione laboriosam suscipit! Repellendus debitis cum, expedita sunt, unde quibusdam officiis quisquam ipsam quas nostrum quos tenetur, nobis deserunt officia reiciendis doloribus autem adipisci beatae necessitatibus. Atque natus vero molestiae fuga nesciunt!
+=======
+Lorem ipsum dolor SOME NEW TEXT HERE elit. Quisquam, accusamus nisi. Alias sed maxime quasi laudantium ad dolorum ratione laboriosam suscipit! Repellendus debitis cum, expedita sunt, unde quibusdam officiis quisquam ipsam quas nostrum quos tenetur, nobis deserunt officia reiciendis doloribus autem adipisci beatae necessitatibus. Atque natus vero molestiae fuga nesciunt! 
+>>>>>>> second
